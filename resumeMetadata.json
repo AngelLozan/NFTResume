@@ -1,0 +1,20 @@
+{
+    "attributes" : [ {
+      "developer-type" : "backend",
+      "value" : "solidity"
+    }, {
+      "developer_type" : "backend",
+      "value" : "nodeJS"
+    },
+    {
+      "developer_type" : "frontend",
+      "value" : "React"
+    }, 
+    {
+      "developer_type" : "frontend",
+      "value" : "NextJS"
+    }],
+    "description" : "A skilled blockchain developer, certified by Consensys with experience building full-stack dAPPs on L1 and L2.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmQRKCGq4DrUop1cySGHVCQbDXGHY3oz7ny52BLdXg7aGP",
+    "name" : "Scott Lozano"
+}

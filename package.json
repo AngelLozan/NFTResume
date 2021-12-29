@@ -1,0 +1,32 @@
+{
+  "name": "resumenft",
+  "version": "1.0.0",
+  "description": "An NFT of my Resume as I look for a job in Web3 Development!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ScottLozano/NFTResume.git"
+  },
+  "keywords": [
+    "NFT"
+  ],
+  "author": "Scott Lozano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottLozano/NFTResume/issues"
+  },
+  "homepage": "https://github.com/ScottLozano/NFTResume#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.8.0"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^10.0.0"
+  }
+}
