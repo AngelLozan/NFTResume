@@ -10,3 +10,6 @@
 
 * If you would like a Fully actionable version of this, I will mint it on Polygon, but you'll have to hire me and reimburse me a few dollars. 
 
+* Needs .env with Rinkeby API info to function
+
+* IPFS pin: https://gateway.pinata.cloud/ipfs/QmXh1LhgiTSAB2uZuMP5NQG6tm1gq6qUoZKbYXtgBhpg2t
